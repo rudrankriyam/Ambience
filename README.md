@@ -1,5 +1,4 @@
 # Ambience
-[![Star History Chart](https://api.star-history.com/svg?repos=rudrankriyam/Ambience&type=Date)](https://star-history.com/#rudrankriyam/Ambience&Date)
 
 
 Ambience is a Swift package that provides seamless integration of Apple Music's ambient (animated or motion) video artwork into iOS/visionOS/macOS/tvOS and watchOS applications, enhancing the visual experience of music playback.
@@ -155,3 +154,5 @@ Contributions to Ambience are welcome! Please feel free to submit a Pull Request
 ## License
 
 Ambience is available under the MIT license. See the LICENSE file for more info.
+
+[![Star History Chart](https://api.star-history.com/svg?repos=rudrankriyam/Ambience&type=Date)](https://star-history.com/#rudrankriyam/Ambience&Date)
